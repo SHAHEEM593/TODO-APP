@@ -1,6 +1,6 @@
 # TODO-PROJECT
 
-##OUTPUT
+## OUTPUT
 
 ![TODO](https://user-images.githubusercontent.com/122553651/213878545-0b375292-237b-4383-a61e-206db952b4ed.png)
 
