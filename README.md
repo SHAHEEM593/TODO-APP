@@ -7,6 +7,6 @@
 
 ### FEATURES INCLUDED:
      * This project focus on CRUD activities Create,Read,Update,Delete
-     * TODO app helps to note down the tasks youneed to complete according to your priority
+     * TODO app helps to note down the tasks you need to complete according to your priority
 
 
