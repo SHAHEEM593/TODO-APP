@@ -1,12 +1,8 @@
 # TODO-PROJECT
 
-## OUTPUT
-
-![TODO](https://user-images.githubusercontent.com/122553651/213878545-0b375292-237b-4383-a61e-206db952b4ed.png)
-
-
-### FEATURES INCLUDED:
-     * This project focus on CRUD activities Create,Read,Update,Delete
-     * TODO app helps to note down the tasks you need to complete according to your priority
+ToDo app helps to note down the tasks you need to complete according to your priority
+ 
+     
 
 
+![TODO](https://user-images.githubusercontent.com/122553651/214502385-b5e5cb58-64d3-4039-b68a-b65d88d341c5.png)
